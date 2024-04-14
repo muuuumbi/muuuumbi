@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muuuumbi&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
 ![muuuumbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=muuuumbi&show_icons=true&theme=radical)
 
